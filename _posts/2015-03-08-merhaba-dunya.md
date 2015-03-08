@@ -3,6 +3,7 @@ layout: post
 title: "Merhaba Dünya"
 date: 2015-03-08 13:03:35 +0200
 comments: true
+share: “y”
 categories: 
 ---
 

@@ -1,9 +1,9 @@
 title:            Can Küçükyılmaz'ın Web Günlüğü
 description:      Bir başka web programcısının buldukları...
-url:              # Site url.
-signoff:          # Your name.
+url:              "http://can.kucukyilmaz.org"
+signoff:          "Can Küçükyılmaz"
 disqus_shortname: defli
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+facebook_appid:   1393315454317518
 google_analytics: UA-60512411-1
 
 links:
