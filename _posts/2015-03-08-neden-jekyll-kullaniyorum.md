@@ -9,7 +9,7 @@ categories: [jekyll, cms]
 
 Bir blog tutmaya karar verdiğiniz zaman önünüze bir çok alternatif çıkar. Blogger, Wordpress hatta benim yaptığım [Sincapp](https://wwww.sincapp.com).
 
-Eğer hosted* çözümler kullanacaksınız Blogger ve Wordpress işinizi fazlasıyla görebilir. Fakat bu durumda sizin özelleştirme seçenekleriniz kısalır. Esnekliğiniz tamamen platform sağlayıcıların insafına kalmıştır. Örneğin Wordpress.com’dan blog açtıysanız belirli eklentileri kurabilirsiniz, her eklentiyi kuramazsınız.
+Eğer hosted* çözümler kullanacaksınız Blogger ve Wordpress işinizi fazlasıyla görebilir. Fakat bu durumda sizin özelleştirme seçenekleriniz kısıtlanır. Esnekliğiniz tamamen platform sağlayıcıların insafına kalmıştır. Örneğin Wordpress.com’dan blog açtıysanız belirli eklentileri kurabilirsiniz, her eklentiyi kuramazsınız.
 
 Eğer kendi sunucumda kullanacağım sistemi derseniz en güçlü alternatif Wordpress gibi duruyor. Wordpress php, mysql kullanan dinamik bir cms**’dir. 
 
@@ -49,7 +49,7 @@ Jekyll’nin çok basit bir template şablonu vardır. Çok kolay bir şekilde i
 Eğer github’a açık kaynak kodlu şeyler koyuyorsanız bunlar için sayfalar yapmak Jekyll ile çok kolaydır.
 
 ### 6. Markdown’ların gücü
-Jekyll ile klasik wysiwyg kullanmazsanız her şey markdown formatındadır. Böylelikle her şeyi klavyenizden halledebilirsiniz.
+Jekyll ile klasik wysiwyg kullanmazsınız her şey markdown formatındadır. Böylelikle her şeyi klavyenizden halledebilirsiniz.
 
 
 *Dipnotlar*:
