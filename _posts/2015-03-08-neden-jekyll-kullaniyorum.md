@@ -4,7 +4,7 @@ title: "Neden Jekyll kullanıyorum?"
 date: 2015-03-08 15:26:34 +0200
 comments: true
 share: true
-categories: [jekyll, cms]
+categories: []
 ---
 
 Bir blog tutmaya karar verdiğiniz zaman önünüze bir çok alternatif çıkar. Blogger, Wordpress hatta benim yaptığım [Sincapp](https://wwww.sincapp.com).
