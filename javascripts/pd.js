@@ -3,7 +3,8 @@ function prettyDate ( timeObj ) {
     return new Date(timeObject.getUTCFullYear(), timeObject.getUTCMonth(), timeObject.getUTCDate(), 0, 0, 0, 0);
   }
   function pluralize(count, singular, plural) {
-    return count + " " + ( (count == 1) ? singular : (plural || singular + "s") );
+    return singular;
+    //return count + " " + ( (count == 1) ? singular : (plural || singular + "s") );
   }
 
   var date = timeObj,
@@ -14,12 +15,12 @@ function prettyDate ( timeObj ) {
   if ( isNaN(day_diff) || day_diff < 0 )
     return;
 
-  return day_diff == 0 && "Today" ||
-    day_diff == 1 && "Yesterday" ||
-    day_diff < 7 && day_diff + " days ago" ||
-    day_diff < 31 && pluralize(Math.round( day_diff / 7 ), "week") + " ago" ||
-    day_diff < 366 && pluralize( Math.round( day_diff / 7 / 4 ), "month") + " ago" ||
-    day_diff >= 366 && pluralize( Math.round( day_diff / 7 / 4 / 12 ), "year") + " ago";
+  return day_diff == 0 && "Bugün" ||
+    day_diff == 1 && "Dün" ||
+    day_diff < 7 && day_diff + " gün önce" ||
+    day_diff < 31 && pluralize(Math.round( day_diff / 7 ), "hafta") + " ago" ||
+    day_diff < 366 && pluralize( Math.round( day_diff / 7 / 4 ), "ay") + " ago" ||
+    day_diff >= 366 && pluralize( Math.round( day_diff / 7 / 4 / 12 ), "yıl") + " ago";
 }
 
 $(function(){
