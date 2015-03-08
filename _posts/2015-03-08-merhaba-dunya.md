@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-Merhaba bu **jekyll** ile oluşturduğum yeni blogum. 2007’den beri blogum kapalıydı. Yeniden blog tutmaya başlamaya karar verdim. Du bakali n’olecak.
+Merhaba bu **jekyll** ile oluşturduğum yeni blogum. 2007’den beri blogum kapalıydı. Yeniden blog tutmaya ~~başlamaya~~ karar verdim. Du bakali n’olecak.
