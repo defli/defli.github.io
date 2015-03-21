@@ -18,9 +18,9 @@ function prettyDate ( timeObj ) {
   return day_diff == 0 && "Bugün" ||
     day_diff == 1 && "Dün" ||
     day_diff < 7 && day_diff + " gün önce" ||
-    day_diff < 31 && pluralize(Math.round( day_diff / 7 ), "hafta") + " ago" ||
-    day_diff < 366 && pluralize( Math.round( day_diff / 7 / 4 ), "ay") + " ago" ||
-    day_diff >= 366 && pluralize( Math.round( day_diff / 7 / 4 / 12 ), "yıl") + " ago";
+    day_diff < 31 && pluralize(Math.round( day_diff / 7 ), "hafta") + " önce" ||
+    day_diff < 366 && pluralize( Math.round( day_diff / 7 / 4 ), "ay") + " önce" ||
+    day_diff >= 366 && pluralize( Math.round( day_diff / 7 / 4 / 12 ), "yıl") + " önce";
 }
 
 $(function(){
