@@ -16,7 +16,7 @@ RSS okuyucu olarak [Feedly’yi](http://feedly.com/) kullanıyordum fakat istati
 
 Yeri gelmişken de “download” özniteliğinden -attribute- bahsetmek istiyorum. Eğer pdf, xml gibi tarayıcının kendi içerisinde gösterebileceği şeylere link veriyorsanız etiketin içine download yazarsanız tarayıcı ilgili içeriği kendisi göstermek yerine indirmeye çalışacaktır.
 
-{% highlight bash%}
+{% highlight html%}
 <a href=“/downloads/subs.xml” download>
 	Can Küçükyılmaz’ın RSS Listesi
 </a>
