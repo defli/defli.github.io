@@ -6,7 +6,7 @@ comments: true
 share: true
 categories: 
 ---
-Son yıllarda bulut -cloud- bilişim çok popüler oldu. Bulut bilişim kısaca kullandığımız servislerin kendi bilgisayarlarımızda değil de uzaktaki bir sunucuda çalışması mantığına dayanıyor*. Web uygulamaları - ki bunlar gelişmiş internet siteleri - bulutta önemli bir yer kaplıyor.
+Son yıllarda bulut -cloud- bilişim çok popüler oldu. Bulut bilişim kısaca kullandığımız servislerin kendi bilgisayarlarımızda değil de uzaktaki bir sunucuda çalışması mantığına dayanıyor^(1). Web uygulamaları - ki bunlar gelişmiş internet siteleri - bulutta önemli bir yer kaplıyor.
 
 Her ne kadar HTML5 ile gelen yeni özellikler, Javascript çatılarının -framework- hızlı gelişmesi biz web programcılarına muazzam olanaklar ve hız sağlasa da hala yerli -native-, yani bilgisayarda tek başına çalışan uygulamaların performasından epeyce uzağız. İnternet tarayıcıları -browser- her ne kadar gelişmiş olsa da işletim sistemi düzeyinde API**’lara erişimimiz çok kısıtlı. 
 
